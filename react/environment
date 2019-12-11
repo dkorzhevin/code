@@ -6,3 +6,4 @@ npm --version
 # Create sample app
 # create-react-app <app-name>
 # cd app-name; npm start
+# Check http://localhost:3000
