@@ -1,4 +1,8 @@
-#include <stdio.h>
+// make ex1
+// OR 
+// CFLAGS="-Wall" make ex1
+
+# include <stdio.h>
 
 /* This is a comment. */
 int main(int argc, char *argv[])
